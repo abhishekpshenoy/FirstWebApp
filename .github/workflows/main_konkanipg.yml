@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'KonkaniPG'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0487A95C4A1A43379A055A4679C8C812 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CFF2AC3A525F4AF3B7C58D255BFED3EB }}
           package: .
